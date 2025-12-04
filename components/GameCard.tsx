@@ -87,7 +87,7 @@ const GameCard: React.FC<GameCardProps> = ({ game, stats }) => {
                <Eye size={14} className="text-stone-400" />
                {formatNumber(stats.visits)}
              </div>
-             <div className="flex items-center gap-1" title="Total Likes">
+             <div className="flex items-center gap-1" title="Total favorite">
                <ThumbsUp size={14} className="text-stone-400" />
                {formatNumber(stats.likes)}
              </div>
