@@ -16,7 +16,7 @@ export interface PlayerStats {
   gameId: string;
   liveCount: number;
   visits: number;
-  favorite: number;
+  likes: number;
   lastUpdated: number;
 }
 
