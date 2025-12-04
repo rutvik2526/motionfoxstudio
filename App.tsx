@@ -173,9 +173,9 @@ const Footer = () => (
         </div>
         
         <div className="flex space-x-4 mt-6">
-          <a href="#" className="hover:text-fox-600 transition-colors text-stone-400"><Twitter size={20} /></a>
+          <a href="https://x.com/motionfoxstudio" className="hover:text-fox-600 transition-colors text-stone-400"><Twitter size={20} /></a>
           <a href="#" className="hover:text-fox-600 transition-colors text-stone-400"><Github size={20} /></a>
-          <a href="#" className="hover:text-fox-600 transition-colors text-stone-400"><Linkedin size={20} /></a>
+          <a href="https://www.linkedin.com/company/110216867/" className="hover:text-fox-600 transition-colors text-stone-400"><Linkedin size={20} /></a>
         </div>
       </div>
       
