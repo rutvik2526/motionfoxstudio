@@ -229,7 +229,7 @@ const ContactForm = () => {
             value={formData.name}
             onChange={e => setFormData({...formData, name: e.target.value})}
             className="w-full bg-white/40 border border-stone-200 rounded-lg p-3 text-stone-900 focus:border-fox-500 focus:ring-1 focus:ring-fox-500 outline-none transition-all placeholder-stone-400 focus:bg-white/80"
-            placeholder="John Doe"
+            placeholder="Laksh"
           />
         </div>
         <div>
@@ -242,7 +242,7 @@ const ContactForm = () => {
             value={formData.email}
             onChange={e => setFormData({...formData, email: e.target.value})}
             className="w-full bg-white/40 border border-stone-200 rounded-lg p-3 text-stone-900 focus:border-fox-500 focus:ring-1 focus:ring-fox-500 outline-none transition-all placeholder-stone-400 focus:bg-white/80"
-            placeholder="john@example.com"
+            placeholder="rutvik@example.com"
           />
         </div>
         <div>
